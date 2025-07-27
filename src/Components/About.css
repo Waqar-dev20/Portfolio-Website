@@ -1,0 +1,41 @@
+.About-container{
+    height: calc(100vh - 131px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.About-container h1{
+    text-align: center;
+}
+.inner-About{
+    width: 60%;
+    height: 380px;
+    padding: 10px;
+}
+.inner-About p{
+    margin-top: 20px;
+}
+.inner-About hr{
+    width: 40%;
+    margin: auto;
+}
+#waqar{
+    color: #38d786;
+}
+#html{
+    color: orangered;
+}
+#css{
+    color: #27afe8;
+}
+#javascript{
+    color: #f3df00;
+}
+@media screen and (max-width:680px) {
+    .inner-About{
+    height: 90%;
+    width: 100%;
+    padding: 10px;
+    font-size: 0.9rem;
+}
+}
