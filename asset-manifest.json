@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.91a2e769.css",
+    "main.js": "/Portfolio-Website/static/js/main.83f08d58.js",
+    "static/js/453.a5b25d5b.chunk.js": "/Portfolio-Website/static/js/453.a5b25d5b.chunk.js",
+    "static/media/Starbucks clone.png": "/Portfolio-Website/static/media/Starbucks clone.80b4043c9408c9a38cc7.png",
+    "static/media/Spotify clone.png": "/Portfolio-Website/static/media/Spotify clone.5e078e710e56e0d02df5.png",
+    "static/media/iblog.jpg": "/Portfolio-Website/static/media/iblog.35405917d464a51fb3bd.jpg",
+    "static/media/pc-pic.jpg": "/Portfolio-Website/static/media/pc-pic.adfa09154e0987025c2d.jpg",
+    "static/media/Login page.jpg": "/Portfolio-Website/static/media/Login page.71a0e4427b31441499c9.jpg",
+    "static/media/Gym landing.png": "/Portfolio-Website/static/media/Gym landing.0d1ba0084ffdc83fbeee.png",
+    "static/media/portfolio.png": "/Portfolio-Website/static/media/portfolio.7284e51ee99b7f757e1f.png",
+    "index.html": "/Portfolio-Website/index.html",
+    "static/media/close.svg": "/Portfolio-Website/static/media/close.95daf1c0df614b5eb356292d10cdad83.svg",
+    "main.91a2e769.css.map": "/Portfolio-Website/static/css/main.91a2e769.css.map",
+    "main.83f08d58.js.map": "/Portfolio-Website/static/js/main.83f08d58.js.map",
+    "453.a5b25d5b.chunk.js.map": "/Portfolio-Website/static/js/453.a5b25d5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91a2e769.css",
+    "static/js/main.83f08d58.js"
+  ]
+}
